@@ -1,0 +1,40 @@
+body{
+    background-image: url("Neutral\ Inspirational\ Quote\ Desktop\ Wallpaper_20240715_170957_0000.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p{
+  letter-spacing: 5px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  padding: 0;
+  padding-top: 250px;
+  font-size: 50px;
+  padding-bottom: 0;
+  
+
+}
+a{
+  text-decoration: none;
+}
+div{
+ 
+  letter-spacing: 0;
+  text-align: center;
+  padding: 25px;
+  text-transform: capitalize;
+  word-spacing: 5px;
+}
+div a{
+  color:white;
+  padding: 11px;
+  
+}
+div a:hover{
+  color: rgb(255, 255, 255);
+  border-bottom :2px solid whitesmoke;
+
+
+}
